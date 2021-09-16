@@ -1,2 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<testsuites tests='0' failures='0'/>
+<testsuites name='UI Tests.xctest' tests='12' failures='0'>
+  <testsuite name='UI_Tests.UITests' tests='12' failures='0'>
+    <testcase classname='UI_Tests.UITests' name='testAdjustingAPicker' time='3.909'/>
+    <testcase classname='UI_Tests.UITests' name='testAdjustingASlider' time='4.594'/>
+    <testcase classname='UI_Tests.UITests' name='testCellReordering' time='4.982'/>
+    <testcase classname='UI_Tests.UITests' name='testDismissingAnAlert' time='5.013'/>
+    <testcase classname='UI_Tests.UITests' name='testElementExists' time='2.803'/>
+    <testcase classname='UI_Tests.UITests' name='testPoppingAViewController' time='4.467'/>
+    <testcase classname='UI_Tests.UITests' name='testPushingAController' time='3.309'/>
+    <testcase classname='UI_Tests.UITests' name='testTappingAButton' time='5.383'/>
+    <testcase classname='UI_Tests.UITests' name='testTappingALinkInAWebView' time='6.223'/>
+    <testcase classname='UI_Tests.UITests' name='testTextExistsInAWebView' time='6.443'/>
+    <testcase classname='UI_Tests.UITests' name='testTypingText' time='6.673'/>
+    <testcase classname='UI_Tests.UITests' name='testWaitingForAnElementToAppear' time='6.026'/>
+  </testsuite>
+</testsuites>
