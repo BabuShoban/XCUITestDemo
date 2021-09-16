@@ -172,7 +172,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 84E1B4321B9DC34200453BB1 /* Build configuration list for PBXProject "UI Testing Cheat Sheet" */;
+			buildConfigurationList = 84E1B4321B9DC34200453BB1 /* Build configuration list for PBXProject "Game App" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -423,7 +423,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		84E1B4321B9DC34200453BB1 /* Build configuration list for PBXProject "UI Testing Cheat Sheet" */ = {
+		84E1B4321B9DC34200453BB1 /* Build configuration list for PBXProject "Game App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				84E1B4521B9DC34200453BB1 /* Debug */,

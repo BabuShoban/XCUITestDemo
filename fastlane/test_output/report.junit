@@ -1,19 +1,2 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<testsuites name='UI Tests.xctest' tests='14' failures='0'>
-  <testsuite name='UI_Tests.UITests' tests='14' failures='0'>
-    <testcase classname='UI_Tests.UITests' name='testAdjustingAPicker' time='3.879'/>
-    <testcase classname='UI_Tests.UITests' name='testAdjustingASlider' time='6.555'/>
-    <testcase classname='UI_Tests.UITests' name='testCellReordering' time='7.312'/>
-    <testcase classname='UI_Tests.UITests' name='testDismissingAnAlert' time='5.319'/>
-    <testcase classname='UI_Tests.UITests' name='testDismissingASystemAlert' time='5.883'/>
-    <testcase classname='UI_Tests.UITests' name='testElementExists' time='5.289'/>
-    <testcase classname='UI_Tests.UITests' name='testPoppingAViewController' time='4.575'/>
-    <testcase classname='UI_Tests.UITests' name='testPushingAController' time='3.785'/>
-    <testcase classname='UI_Tests.UITests' name='testRefreshControl' time='65.248'/>
-    <testcase classname='UI_Tests.UITests' name='testTappingAButton' time='3.918'/>
-    <testcase classname='UI_Tests.UITests' name='testTappingALinkInAWebView' time='6.605'/>
-    <testcase classname='UI_Tests.UITests' name='testTextExistsInAWebView' time='4.997'/>
-    <testcase classname='UI_Tests.UITests' name='testTypingText' time='6.964'/>
-    <testcase classname='UI_Tests.UITests' name='testWaitingForAnElementToAppear' time='6.072'/>
-  </testsuite>
-</testsuites>
+<testsuites tests='0' failures='0'/>
