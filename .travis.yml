@@ -8,4 +8,4 @@ before_install:
   - gem install fastlane  -N --no-document
 install: true
 script:
-  - fastlane scan --scheme Volley --device "iPhone 11 Pro"		
+  - fastlane scan --scheme Default --device "iPhone 11 Pro"		
