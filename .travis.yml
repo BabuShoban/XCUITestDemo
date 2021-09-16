@@ -1,0 +1,11 @@
+language: swift
+osx_image: xcode12.5.1
+branches:
+  only:
+    - main
+
+before_install:
+  - gem install fastlane --no-ri --no-rdoc --no-document
+install: true
+script:
+  - fastlane scan --scheme Volley --device "iPhone 11 Pro"		
